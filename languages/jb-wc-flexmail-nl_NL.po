@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Flexmail for WooCommerce\n"
+"POT-Creation-Date: 2018-12-08 16:19+0100\n"
+"PO-Revision-Date: 2018-12-08 16:20+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: languages\n"
+
+#: jb-flexmail-for-woocommerce.php:44 jb-flexmail-for-woocommerce.php:45
+#: jb-flexmail-for-woocommerce.php:118
+msgid "Flexmail for WooCommerce"
+msgstr "Flexmail voor WooCommerce"
+
+#: jb-flexmail-for-woocommerce.php:133
+#, php-format
+msgid "Yes, I&rsquo;d like to sign up for the %s newsletter."
+msgstr "Ja, ik schrijf me in voor de nieuwsbrief van %s."
+
+#: jb-flexmail-for-woocommerce.php:151
+msgid ""
+"Fill out and <strong>save</strong> the <strong>Flexmail API Settings</"
+"strong> first! Only then will you be able to select your Flexmail Contacts "
+"List below."
+msgstr ""
+"Vul eerst de <strong>Flexmail API-instellingen</strong> in en <strong>sla ze "
+"op</strong>! Pas dan kun je eronder je Flexmail-contactenlijst kiezen."
+
+#: jb-flexmail-for-woocommerce.php:160
+msgid "Flexmail API Settings"
+msgstr "Flexmail API-instellingen"
+
+#: jb-flexmail-for-woocommerce.php:164
+msgid "API User ID"
+msgstr "API User ID"
+
+#: jb-flexmail-for-woocommerce.php:167
+msgid "Your Flexmail API user ID."
+msgstr "Je Flexmail API user ID."
+
+#: jb-flexmail-for-woocommerce.php:171
+msgid "API User Token"
+msgstr "API User Token"
+
+#: jb-flexmail-for-woocommerce.php:174
+msgid "Your Flexmail API user token."
+msgstr "Je Flexmail API user token."
+
+#: jb-flexmail-for-woocommerce.php:185
+msgid "Miscellaneous Settings"
+msgstr "Overige instellingen"
+
+#: jb-flexmail-for-woocommerce.php:189
+msgid "Flexmail Contacts List"
+msgstr "Flexmail-contactenlijst"
+
+#: jb-flexmail-for-woocommerce.php:197
+msgid ""
+"The list that corresponds with your <strong>general contacts database</"
+"strong>, i.e., the topmost list in Flexmail."
+msgstr ""
+"De lijst die overeenkomt met je <strong>algemene contactendatabase</strong>, "
+"d.i. de bovenste lijst in Flexmail."
+
+#: jb-flexmail-for-woocommerce.php:201
+msgid "Checkbox Label Text"
+msgstr "Labeltekst van selectievakje"
+
+#: jb-flexmail-for-woocommerce.php:204
+msgid "The message customers see next to the opt-in checkbox."
+msgstr "Het bericht dat klanten naast het selectievakje te zien krijgen."
+
+#: jb-flexmail-for-woocommerce.php:208
+msgid "Include Billing Address"
+msgstr "Facturatieadres insluiten"
+
+#: jb-flexmail-for-woocommerce.php:212
+msgid "Export physical address data"
+msgstr "Exporteer ook facturatieadres"
+
+#: jb-flexmail-for-woocommerce.php:214
+msgid ""
+"If left unchecked, only name, email address and language&mdash;or, rather, "
+"the active site locale&mdash;wil be exported."
+msgstr ""
+"Indien niet aangevinkt, worden alleen naam, e-mailadres en taal &ndash; d.i. "
+"de actieve site-taal &ndash; geëxporteerd."
+
+#: jb-flexmail-for-woocommerce.php:218
+msgid "Source Name"
+msgstr "Bronnaam"
+
+#: jb-flexmail-for-woocommerce.php:221
+msgid ""
+"In order to help with meaningful list segmentation, a source will be "
+"attached to each new contact. Default value: site name."
+msgstr ""
+"Om het segmenteren te vergemakkelijken, wordt aan elk nieuw contact een bron "
+"gehangen. Standaardwaarde: naam van de site."
